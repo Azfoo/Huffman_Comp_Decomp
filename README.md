@@ -1,2 +1,1 @@
-#Huffman Compression and Decompression Algorithm
-The code is written in MS Visual Studio IDE. THe code runs only for text files. On running the main function, user is asked to enter a .txt file which is then compressed to a ".bin" file with name "Compressed.bin" in the same folder. Similarly the next prompt is to enter a .bin file for decompression which is decompressed to a text file with name "Decompress.txt" in the same folder.
+
